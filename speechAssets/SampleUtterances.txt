@@ -1,0 +1,13 @@
+GetNewFactIntent a quote
+GetNewFactIntent a oscar wilde quote
+GetNewFactIntent a wilde quote
+GetNewFactIntent an oscar wilde quote
+GetNewFactIntent a wilde quote
+GetNewFactIntent tell me a quote
+GetNewFactIntent tell me a oscar wilde quote
+GetNewFactIntent tell me an oscar wilde quote
+GetNewFactIntent tell me a wilde quote
+GetNewFactIntent give me a quote
+GetNewFactIntent give me a oscar wilde quote
+GetNewFactIntent give me an oscar wilde quote
+GetNewFactIntent give me a wilde quote
